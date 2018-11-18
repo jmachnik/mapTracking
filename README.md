@@ -12,14 +12,13 @@ Full functionality is provided.
 
 * More test
 * Some refactor in Redux actions on how followed point is picked
-
+& App.test. is crashing - because of some configuration problems in setupTests.ts
 ## Tech stack
 
 I used
-
-* React.js with Typescript
+* React.js with Typescript (Create React App)
 * Redux 
-* Jest & enzyme for tests
+* Jest for tests
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
