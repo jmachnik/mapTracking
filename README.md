@@ -11,15 +11,17 @@ Full functionality is provided.
 ## What could be done in future 
 
 * More test
+* Some  // @ts-ignore should be omitted or ts coniguration could be enchanced to provide better TypeScript usage
 * Some refactor in Redux actions on how followed point is picked
-* App.test. is crashing - because of some configuration problems in setupTests.ts
+* App.test. is crashing - I am having some configuration problems in setupTests.tsx file
+* UI cann be prettier - obviously
 ## Tech stack
 
-I used
 * React.js with Typescript (Create React App)
-* Redux 
-* Jest for tests
+* Redux (it was optional but I wanted to at least scratch the surface)
+* Jest for tests - I've met some config issues here
 
+## CREATE REACT APP README FILE CONTENT
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
