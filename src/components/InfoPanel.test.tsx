@@ -21,7 +21,7 @@ it('renders without crashing with minimal props', () => {
     ReactDOM.unmountComponentAtNode(div);
 });
 
-test('renders without crashing and have span', () => {
+test('rendersr without crashing and have span', () => {
     const detailsPanel = shallow(
         <InfoPanel point={properProps} followPoint={() => {}}/>);
     expect(detailsPanel.contains('span')).toBeTruthy();

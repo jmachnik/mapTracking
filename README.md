@@ -1,3 +1,26 @@
+## What is done
+
+Full functionality is provided. 
+
+* Points are loaded from json that is in assets directory. 
+* Points has lat, lng and name
+* Simulated points movement
+* Points are clickable and Information about currently chosen point is available on left panel
+* Points can be followed
+
+## What could be done in future 
+
+* More test
+* Some refactor in Redux actions on how followed point is picked
+
+## Tech stack
+
+I used
+
+* React.js with Typescript
+* Redux 
+* Jest & enzyme for tests
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
