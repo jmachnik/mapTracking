@@ -1,0 +1,7 @@
+.Marker span {
+    height: 1em;
+    width: 15px;
+    background: red;
+    border-radius: 50px;
+    cursor: pointer;
+}

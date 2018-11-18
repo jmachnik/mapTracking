@@ -1,0 +1,34 @@
+{
+  "points": [
+    {
+      "name": "John",
+      "lat": 59.35,
+      "lng": 30.33
+    },
+    {
+      "name": "Tom",
+      "lat": 59.25,
+      "lng": 30.15
+    },
+    {
+      "name": "Bob",
+      "lat": 59.34,
+      "lng": 30.67
+    },
+    {
+      "name": "Steven",
+      "lat": 59.56,
+      "lng": 30.12
+    },
+    {
+      "name": "Mark",
+      "lat": 59.27,
+      "lng": 30.78
+    },
+    {
+      "name": "Jennifer",
+      "lat": 59.23,
+      "lng": 30.11
+    }
+  ]
+}
