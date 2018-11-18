@@ -1,10 +1,5 @@
 import * as React from "react";
 import './Marker.css';
-import {Point, StoreState} from "../types";
-import {ThunkDispatch} from "redux-thunk";
-import {Action} from "redux";
-import {movePoints} from "../actions";
-import {connect} from "react-redux";
 
 // @ts-ignore
 export interface MarkerProps {

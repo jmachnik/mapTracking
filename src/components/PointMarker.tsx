@@ -14,8 +14,7 @@ export interface PointMarkerProps {
 }
 
 export function mapStateToProps(store: StoreState, ownProps: PointMarkerProps) {
-    return {
-    }
+    return {}
 }
 
 export function mapDispatchToProps(dispatch: ThunkDispatch<StoreState, void, Action>) {

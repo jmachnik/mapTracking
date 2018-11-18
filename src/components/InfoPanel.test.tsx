@@ -10,13 +10,15 @@ const properProps = {
 
 it('renders without crashing', () => {
     const div = document.createElement('div');
-    ReactDOM.render(<InfoPanel point={properProps} followPoint={() => {}}/>, div);
+    ReactDOM.render(<InfoPanel point={properProps} followPoint={() => {
+    }}/>, div);
     ReactDOM.unmountComponentAtNode(div);
 });
 
 it('renders without crashing with minimal props', () => {
     const div = document.createElement('div');
-    ReactDOM.render(<InfoPanel followPoint={() => {}}/>, div);
+    ReactDOM.render(<InfoPanel followPoint={() => {
+    }}/>, div);
     ReactDOM.unmountComponentAtNode(div);
 });
 

@@ -2,7 +2,7 @@ import * as React from "react";
 // @ts-ignore
 import {connect} from "react-redux";
 import {Point, StoreState} from "../types";
-import {followPoint, movePoints} from "../actions";
+import {followPoint} from "../actions";
 import {Action} from "redux";
 import {ThunkDispatch} from "redux-thunk";
 import {InfoPanel} from "./InfoPanel";
