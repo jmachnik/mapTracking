@@ -12,7 +12,7 @@ Full functionality is provided.
 
 * More test
 * Some refactor in Redux actions on how followed point is picked
-& App.test. is crashing - because of some configuration problems in setupTests.ts
+* App.test. is crashing - because of some configuration problems in setupTests.ts
 ## Tech stack
 
 I used
