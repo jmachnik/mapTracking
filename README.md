@@ -3,7 +3,7 @@
 Full functionality is provided. 
 
 * Points are loaded from json that is in assets directory. 
-* Points has lat, lng and name
+* Point has lat, lng and name
 * Simulated points movement
 * Points are clickable and Information about currently chosen point is available on left panel
 * Points can be followed
